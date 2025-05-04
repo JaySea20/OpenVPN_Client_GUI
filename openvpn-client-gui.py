@@ -61,7 +61,7 @@ class OpenVPNStatusMonitor:
         self.init_gui()
 
         # Initialize notifications
-        Notify.init("OpenVPN Status Monitor")
+        Notify.init("OpenVPN Client GUI")
 
         # Check for stale processes on startup
         self.check_and_clean_stale_processes()
