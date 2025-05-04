@@ -39,7 +39,7 @@ A lightweight, user-friendly graphical interface for managing OpenVPN connection
 
 2. **Download the Application**
    ```bash
-   git clone https://github.com/yourusername/openvpn-client-gui.git
+   git clone https://github.com/JaySea20/OpenVPN_Client_GUI.git
    cd openvpn-client-gui
    ```
 
