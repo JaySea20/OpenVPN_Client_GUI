@@ -21,7 +21,7 @@ Requirements:
     - Python GObject bindings (PyGI)
     - Linux with pkexec for privilege escalation
 
-Author: Your Name
+Author: JaySea20
 License: GPL-3.0
 Version: 0.6-beta
 Date: May 03, 2025
